@@ -27,7 +27,7 @@ baseurl:
 repository: "yannickseurin/yannickseurin.github.io"
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 markdown: kramdown
 plugins:
