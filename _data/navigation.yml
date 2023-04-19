@@ -1,0 +1,7 @@
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Invited Talks"
+    url: /invited_talks/
+  - title: "About"
+    url: /about/
