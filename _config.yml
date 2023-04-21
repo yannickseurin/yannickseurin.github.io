@@ -37,7 +37,7 @@ plugins:
 author:
   name   : "Yannick Seurin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cryptographer at [Ledger](https://www.legder.com). Previously with ANSSI and Orange Labs."
+  bio    : "Cryptographer at [Ledger](https://www.ledger.com). Previously with ANSSI and Orange Labs."
   location: "Paris, France"
   email: "yannick.seurin@gmail.com"
   github: "yannickseurin"
