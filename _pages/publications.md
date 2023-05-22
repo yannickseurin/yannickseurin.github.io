@@ -320,7 +320,8 @@ Y. Seurin and T. Peyrin\
 - **Primitives et protocoles cryptographiques à sécurité prouvée**\
 Y. Seurin\
 PhD thesis, Versailles University, 2009 ≻
-<a href="/assets/papers/these_Yannick_Seurin.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="/assets/papers/these_Yannick_Seurin.pdf"><i class="fas fa-file-pdf"></i></a>\
+Warning: problems have been found in Theorem 2.4, see [this paper](https://arxiv.org/abs/1011.1264). See also [this note](https://eprint.iacr.org/2015/903.pdf) and [this journal paper](https://doi.org/10.1007/s00145-014-9189-6).
 
 ## Physics
 
