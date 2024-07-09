@@ -15,6 +15,13 @@ Here you can find links to most papers <i class="fas fa-file-pdf"></i>, some sli
 
 ## Cryptography
 
+### 2024
+
+- **A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**\
+B. Cogliati, J. Jean, T. Peyrin, and Y. Seurin\
+[Communications in Cryptology](https://doi.org/10.62056/a3qjp2fgx) ≻
+<a href="https://eprint.iacr.org/2022/846.pdf"><i class="fas fa-file-pdf"></i></a>
+
 ### 2021
 
 - **QCB: Efficient Quantum-secure Authenticated Encryption**\
