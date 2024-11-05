@@ -19,6 +19,7 @@ I've been a member of [IACR](https://www.iacr.org) since 2007.
 - [CRYPTO 2016](https://www.iacr.org/conferences/crypto2016), [CRYPTO 2017](https://www.iacr.org/conferences/crypto2017)
 - [EUROCRYPT 2013](https://www.iacr.org/conferences/eurocrypt2013), [EUROCRYPT 2016](https://www.iacr.org/conferences/eurocrypt2016), [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021), [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024), [EUROCRYPT 2025](https://eurocrypt.iacr.org/2025)
 - [FSE 2016](https://fse.rub.de/), [FSE 2017](https://www.nuee.nagoya-u.ac.jp/labs/tiwata/fse2017/), [FSE 2018](https://fse.iacr.org/2018), [FSE 2019](https://fse.iacr.org/2019), [FSE 2021/2022](https://fse.iacr.org/2022), [FSE 2023](https://fse.iacr.org/2023), [FSE 2024](https://fse.iacr.org/2024), [FSE 2025]()
+- [PKC 2025](https://pkc.iacr.org/2025)
 - [SCN 2022](https://scn.unisa.it/scn22), [SCN 2024](https://scn.unisa.it/scn24)
 - [IWSEC 2016](https://www.iwsec.org/2016), [IWSEC 2017](https://www.iwsec.org/2017), [IWSEC 2018](https://www.iwsec.org/2018), [IWSEC 2019](https://www.iwsec.org/2019), [IWSEC 2020](https://www.iwsec.org/2020), [IWSEC 2021](https://www.iwsec.org/2021),
 
