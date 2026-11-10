@@ -15,6 +15,27 @@ Here you can find links to most papers <i class="fas fa-file-pdf"></i>, some sli
 
 ## Cryptography
 
+### 2026
+
+- **DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures**\
+J. Nick, T. Ruffing, and Y. Seurin\
+[Proceedings of EUROCRYPT 2026](https://doi.org/10.1007/978-3-032-25291-3\_8) ≻
+<a href="https://eprint.iacr.org/2025/692.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="https://youtu.be/ir7U-_iyu0Y?si=nfYCEsztTJfMfXIg&t=3707"><i class="fas fa-video"></i></a>
+
+- **Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**\
+K. Gorna, N. Iooss, Y. Seurin, and R. Khatoun\
+[Proceedings of SAC 2026](https://doi.org/10.1145/3748522.3779940) ≻
+<a href="https://arxiv.org/pdf/2512.10799"><i class="fas fa-file-pdf"></i></a>
+
+### 2025
+
+- **Exposing Go's Hidden Bugs: A Novel Concolic Framework**\
+K. Gorna, N. Iooss, Y. Seurin, and R. Khatoun\
+[Proceedings of SERA 2025](https://doi.org/10.1109/SERA65747.2025.11449147) ≻
+<a href="https://arxiv.org/pdf/2505.20183"><i class="fas fa-file-pdf"></i></a>
+
+
 ### 2024
 
 - **A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**\
