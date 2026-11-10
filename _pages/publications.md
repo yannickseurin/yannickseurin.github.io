@@ -19,7 +19,7 @@ Here you can find links to most papers <i class="fas fa-file-pdf"></i>, some sli
 
 - **DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures**\
 J. Nick, T. Ruffing, and Y. Seurin\
-[Proceedings of EUROCRYPT 2026](https://doi.org/10.1007/978-3-032-25291-3\_8) ≻
+[Proceedings of EUROCRYPT 2026](https://doi.org/10.1007/978-3-032-25291-3_8) ≻
 <a href="https://eprint.iacr.org/2025/692.pdf"><i class="fas fa-file-pdf"></i></a>
 <a href="https://youtu.be/ir7U-_iyu0Y?si=nfYCEsztTJfMfXIg&t=3707"><i class="fas fa-video"></i></a>
 
